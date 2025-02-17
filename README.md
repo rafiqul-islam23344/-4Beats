@@ -63,6 +63,4 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 ## 📊 My GitHub Stats
 ![Rafiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqul-islam23344&show_icons=true&bg_color=FFFFFF&title_color=007acc&text_color=333333&icon_color=007acc)
 
-![Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=rafiqul-islam23344&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul-islam23344&layout=compact&theme=radical)
 
